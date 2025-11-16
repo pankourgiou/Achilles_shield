@@ -1,2 +1,2 @@
-#Setting (Achille's shield) = Energy and (Achille's shield = 1) we have:
-print("(Achille's shield)= (Achille's shield)*mcmod2")
+#our code thing is very similar to eire's
+print("00353")
