@@ -1,2 +1,2 @@
 #our code thing is very similar to eire's
-print("00353")
+print("time = money and money = time-->time flies")
